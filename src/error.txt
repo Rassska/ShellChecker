@@ -1,0 +1,25 @@
+Testing sum...
+sum(hello, 3): The 3rd arg isn't an integer number
+sum(hello, hello): The 3rd arg isn't an integer number
+sum(3, h): The last arg isn't an integer number
+sum(1, 2, 3): The amount of arguments must be equal to 3
+
+Testing sub...
+sub(hello, 3): The 3rd arg isn't an integer number
+sub(hello, hello): The 3rd arg isn't an integer number
+sub(3, h): The last arg isn't an integer number
+sub(1, 2, 3): The amount of arguments must be equal to 3
+
+Testing mul...
+mul(hello, 3): The 3rd arg isn't an integer number
+mul(hello, hello): The 3rd arg isn't an integer number
+mul(3, h): The last arg isn't an integer number
+mul(1, 2, 3): The amount of arguments must be equal to 3
+
+Testing div...
+div(hello, 3): The 3rd arg isn't an integer number
+div(hello, hello): The 3rd arg isn't an integer number
+div(3, h): The last arg isn't an integer number
+div(1, 2, 3): The amount of arguments must be equal to 3
+div(1, 0): Divided by zeroooo!!!
+

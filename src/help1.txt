@@ -1,0 +1,7 @@
+Information about calc:
+
+    "calc" (for calculating integer numbers)
+    demanded 3 args: 
+    1. sum / sub / mul / div
+    2. only integer number 
+    3. only integer number
