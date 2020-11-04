@@ -9,7 +9,7 @@
 > _It's easy to manage with_
 
 >> ***So, in _main.sh_ you have to set path to the calculating script.***
->> ![Снимок экрана от 2020-11-04 15-08-34](https://user-images.githubusercontent.com/73281386/98110586-5ab7bb80-1eb0-11eb-8419-72afcc58ae2f.png)
+![Снимок экрана от 2020-11-04 15-08-34](https://user-images.githubusercontent.com/73281386/98110586-5ab7bb80-1eb0-11eb-8419-72afcc58ae2f.png)
 
-***So, after that we can run our console app and we get something like this:***
+>> ***So, after that we can run our console app and we get something like this:***
 ![Снимок экрана от 2020-11-04 15-20-36](https://user-images.githubusercontent.com/73281386/98111249-58a22c80-1eb1-11eb-9027-7b8ded5d0260.png)
