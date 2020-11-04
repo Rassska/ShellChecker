@@ -17,3 +17,5 @@
 **As you can see, all corner cases have tested and at the same we can check the reason of the cases which was falled. The file _*error.txt_ has this information**
 > _For the current *exp1.sh *error.txt looks like:_
 ![Снимок экрана от 2020-11-04 15-31-56](https://user-images.githubusercontent.com/73281386/98112219-e599b580-1eb2-11eb-89d2-ea9a1d93d6e8.png)
+
+_That's it, I hope you enjoy this app and thanks for your attention!_
