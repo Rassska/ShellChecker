@@ -10,3 +10,5 @@ _It's easy to manage with_
 
 #### So, in _main.sh_ you have to set path to the calculating script.
 ![Снимок экрана от 2020-11-04 15-08-34](https://user-images.githubusercontent.com/73281386/98110586-5ab7bb80-1eb0-11eb-8419-72afcc58ae2f.png)
+
+**Congratulatins, that's it what we have to do!**
