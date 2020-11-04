@@ -14,7 +14,7 @@
 >> ***So, after that we can run our console app and we get something like this:***
 ![Снимок экрана от 2020-11-04 15-20-36](https://user-images.githubusercontent.com/73281386/98111249-58a22c80-1eb1-11eb-9027-7b8ded5d0260.png)
 
-**As you can see, all corner cases have tested and at the same we can check the reason of the cases which was falled. The file _*error.txt_ has this information**
+**As you can see, all corner cases have tested and at the same time we can check the reason of the cases which was falled. The file _*error.txt_ has this information**
 > _For the current *exp1.sh *error.txt looks like:_
 ![Снимок экрана от 2020-11-04 15-31-56](https://user-images.githubusercontent.com/73281386/98112219-e599b580-1eb2-11eb-89d2-ea9a1d93d6e8.png)
 
