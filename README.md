@@ -8,5 +8,5 @@ In our university Operating Systems course we have to create an app that's suppo
 ### How it is working?
 _It's easy to manage with_
 
-#### So, in main.sh you have to set path to the calculating script.
+#### So, in _main.sh_ you have to set path to the calculating script.
 ![Снимок экрана от 2020-11-04 15-08-34](https://user-images.githubusercontent.com/73281386/98110586-5ab7bb80-1eb0-11eb-8419-72afcc58ae2f.png)
