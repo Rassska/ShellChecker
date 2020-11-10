@@ -3,8 +3,6 @@
 ### Description
 **This console app automated students' bash scripts testing some routine bash scripts like "Calculating" that saved about 10 minutes per student's task review.**
 
-Can be compiled with any `C++14` and up compliant compiler
-
 ### How it is working?
 _It's easy to manage with_
 
