@@ -5,7 +5,7 @@
 
 ### How it is working?
 
-```So, in _*main.sh_ you have to set path to the calculating script.```
+-```So, in _*main.sh_ you have to set path to the calculating script.```
 
 ![ScriptPath](https://user-images.githubusercontent.com/73281386/98115427-dcf7ae00-1eb7-11eb-85da-5f703b9219e8.png)
 
