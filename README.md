@@ -19,4 +19,6 @@
 - ```For the current *exp1.sh *error.txt looks like:```
 
 ![Showing errors](https://user-images.githubusercontent.com/73281386/98115430-dec17180-1eb7-11eb-836e-720b69e3d060.png)
+
+
 ***That's it, I hope you enjoy this app and thanks for your attention!***
